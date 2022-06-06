@@ -6,6 +6,7 @@
 
 ### 使用
 安装环境
+python、appium
 
 下载 打卡.py 及 watch_appium.py 至本地
 根据需要，修改caps启动参数及平台
