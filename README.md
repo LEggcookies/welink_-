@@ -23,3 +23,6 @@ python、appium
 1. 将“考勤打卡”添加到日常办公
 2. 更换设备需要手动打卡一次，点击设备异常的弹窗
 3. iOS 需打开页面至“业务”，杀掉应用后重新打开为业务界面
+
+其他
+`adb shell dumpsys activity top | grep ACTIVITY`获取 activity
